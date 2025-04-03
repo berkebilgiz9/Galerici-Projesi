@@ -1,0 +1,1 @@
+Merkez Bankası API'ından dolar,euro gibi para birimlerini çekip JWT Token, Spring Validaton, Entity'leri DTO olarak kullanmak, Filter düşüp düşmediğinin kontrol edilebildiği proje.
